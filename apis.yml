@@ -25,6 +25,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/wwgrainger
   - type: Website
     url: https://www.grainger.com
   - type: LinkedIn
