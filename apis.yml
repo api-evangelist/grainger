@@ -31,6 +31,8 @@ common:
     url: https://www.grainger.com
   - type: LinkedIn
     url: https://www.linkedin.com/company/w-w-grainger
+  - type: LLMsTxt
+    url: https://www.grainger.com/llms.txt
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
